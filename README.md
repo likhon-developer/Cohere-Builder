@@ -3,7 +3,7 @@
 CohereBuilder is an AI-powered platform that helps users create and share web content with ease. Using the power of Cohere's advanced language models, CohereBuilder enables users to generate beautiful, functional, and accessible web content through simple natural language prompts.
 
 <p align="center">
-  <img src="public/cohere-logo-icon.png" alt="CohereBuilder Logo" width="120">
+  <img src="icon.png" alt="CohereBuilder Logo" width="120">
 </p>
 
 <p align="center">
